@@ -10,9 +10,6 @@
 
 ---
 
-## 🎥 Project Presentation
-
-🎬 [Watch on Google Drive](https://drive.google.com/file/d/0B79vfV-wa7EZME9WVmsxTEpzMjg/view?usp=sharing)
 
 ---
 
