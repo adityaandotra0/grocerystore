@@ -133,14 +133,3 @@ Fake gateway: Choose between saved cards, new cards, or wallet.
 Confirmation screen with transaction summary.
 
 Transactions logged in user dashboard.
-
-
-
-### To Use:
-1. Copy the above content into your project’s `README.md` file.
-2. Push it to GitHub using:
-
-```bash
-git add README.md
-git commit -m "Update README with improved formatting and content"
-git push origin main
